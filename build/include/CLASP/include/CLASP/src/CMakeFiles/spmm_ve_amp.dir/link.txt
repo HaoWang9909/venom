@@ -1,0 +1,2 @@
+/usr/bin/ar qc libspmm_ve_amp.a CMakeFiles/spmm_ve_amp.dir/__/include/cublas_gemm.cuh.o CMakeFiles/spmm_ve_amp.dir/cublas_gemm.cu.o CMakeFiles/spmm_ve_amp.dir/__/include/cuda_spmm.cuh.o CMakeFiles/spmm_ve_amp.dir/cuda_spmm.cu.o CMakeFiles/spmm_ve_amp.dir/__/include/wmma_spmm.cuh.o CMakeFiles/spmm_ve_amp.dir/wmma_spmm.cu.o
+/usr/bin/ranlib libspmm_ve_amp.a

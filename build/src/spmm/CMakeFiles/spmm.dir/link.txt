@@ -1,0 +1,2 @@
+/usr/bin/ar qc libspmm.a CMakeFiles/spmm.dir/spmm.hpp.o CMakeFiles/spmm.dir/spmm.cpp.o CMakeFiles/spmm.dir/sputnik_spmm.hpp.o CMakeFiles/spmm.dir/sputnik_spmm.cpp.o CMakeFiles/spmm.dir/clasp_spmm.hpp.o CMakeFiles/spmm.dir/clasp_spmm.cpp.o CMakeFiles/spmm.dir/spatha_spmm.hpp.o CMakeFiles/spmm.dir/spatha_spmm.cpp.o CMakeFiles/spmm.dir/cusparseLt_spmm.hpp.o CMakeFiles/spmm.dir/cusparseLt_spmm.cpp.o
+/usr/bin/ranlib libspmm.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libspatha.a CMakeFiles/spatha.dir/blockwise_library.cu.o
+/usr/bin/ranlib libspatha.a

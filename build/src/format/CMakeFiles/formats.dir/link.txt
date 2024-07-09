@@ -1,0 +1,2 @@
+/usr/bin/ar qc libformats.a CMakeFiles/formats.dir/format.cpp.o CMakeFiles/formats.dir/format.hpp.o CMakeFiles/formats.dir/format_cxx.hpp.o CMakeFiles/formats.dir/format_cxx.cpp.o CMakeFiles/formats.dir/format_csr.cpp.o CMakeFiles/formats.dir/format_csr.hpp.o CMakeFiles/formats.dir/format_cvs.cpp.o CMakeFiles/formats.dir/format_cvs.hpp.o CMakeFiles/formats.dir/format_sr_nm.hpp.o CMakeFiles/formats.dir/format_sr_nm.cpp.o
+/usr/bin/ranlib libformats.a

@@ -1,0 +1,1 @@
+/usr/bin/c++ -D_GLIBCXX_USE_CXX11_ABI=0 -g -O0 CMakeFiles/benchmark.spmm_nm.dir/benchmark/benchmark.spmm_nm.cu.o -o benchmark.spmm_nm   -L/usr/local/cuda/targets/x86_64-linux/lib  util/libspatha_util.a spmm/libspatha.a -lcudadevrt -lcudart_static -lrt -lpthread -ldl 

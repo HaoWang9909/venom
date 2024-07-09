@@ -1,0 +1,2 @@
+/usr/bin/ar qc libspatha_util.a CMakeFiles/spatha_util.dir/random_mask.cc.o
+/usr/bin/ranlib libspatha_util.a
